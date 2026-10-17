@@ -2,6 +2,7 @@
 | # | Topic | Best For | Beginner Friendly? | My Understanding | Link to the paper |
 |---|-------|----------|---------------------|------|------|
 | 1 | **Attention Is All You Need** | LLMs | Yes |[Open](attention-is-all-you-need.md) | [Open](https://arxiv.org/pdf/1706.03762) |My Explanation 
+| 2 | **Visual Instruction Turning** | Computer Vision and Pattern Recognition | No |[Open](attention-is-all-you-need.md) | [Open](https://arxiv.org/pdf/2304.08485)
 
 
 
