@@ -3,7 +3,8 @@
 |---|-------|----------|---------------------|------|------|
 | 1 | **Attention Is All You Need** | LLMs | Yes |[Open](attention-is-all-you-need.md) | [Open](https://arxiv.org/pdf/1706.03762) |My Explanation 
 | 2 | **Visual Instruction Turning** | Computer Vision and Pattern Recognition | No |[Open](attention-is-all-you-need.md) | [Open](https://arxiv.org/pdf/2304.08485)
-| 4 | **Switch Transformers: Scaling to Trillion-Parameter Models with Simple and Efficient Sparsity** | scalable and effective natural language learners | No |[Open](attention-is-all-you-need.md) | [Open](https://arxiv.org/pdf/2101.03961)
+| 3 | **Switch Transformers: Scaling to Trillion-Parameter Models with Simple and Efficient Sparsity** | scalable and effective natural language learners | No |[Open](attention-is-all-you-need.md) | [Open](https://arxiv.org/pdf/2101.03961)
+| 4 | **Language Models are Few-Shot Learners** | LLMs | Yes |[Open](attention-is-all-you-need.md) | [Open](https://arxiv.org/pdf/2005.14165)
 
 
 
