@@ -5,7 +5,7 @@
 | 2 | **Visual Instruction Turning** | Computer Vision and Pattern Recognition | No |[Open](attention-is-all-you-need.md) | [Open](https://arxiv.org/pdf/2304.08485)
 | 3 | **Switch Transformers: Scaling to Trillion-Parameter Models with Simple and Efficient Sparsity** | scalable and effective natural language learners | No |[Open](attention-is-all-you-need.md) | [Open](https://arxiv.org/pdf/2101.03961)
 | 4 | **Language Models are Few-Shot Learners** | LLMs | Yes |[Open](attention-is-all-you-need.md) | [Open](https://arxiv.org/pdf/2005.14165)
-
+| 5 | **REACT: SYNERGIZING REASONING AND ACTING IN LANGUAGE MODELS** | LLMs | No |[Open](attention-is-all-you-need.md) | [Open](https://arxiv.org/pdf/2210.03629)
 
 
 
