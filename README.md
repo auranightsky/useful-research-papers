@@ -9,8 +9,11 @@
 | 6 | **The Task Shield: Enforcing Task Alignment to Defend Against Indirect Prompt Injection in LLM Agents** | LLMs | No |[Open](attention-is-all-you-need.md) | [Open](https://aclanthology.org/2025.acl-long.1435.pdf)
 | 7 | **Gated Attention for Large Language Models: Non-linearity, Sparsity,and Attention-Sink-Free** | LLMs | Yes |[Open](attention-is-all-you-need.md) | [Open](https://arxiv.org/pdf/2505.06708)
 | 8 | **Chain-of-Thought Prompting Elicits Reasoning in Large Language Models** | LLMs | Yes |[Open](attention-is-all-you-need.md) | [Open](https://arxiv.org/pdf/2201.11903)
+| 9 | **The Flexibility Trap** |  | No |[Open](attention-is-all-you-need.md) | [Open](https://arxiv.org/pdf/2601.15165)
+| 10 | **AI co-mathematician: Accelerating mathematicians with agentic AI** |  | No |[Open](attention-is-all-you-need.md) | [Open](https://arxiv.org/pdf/2605.06651)
 
 
+  
 
 ### 🎯 Purpose
 
