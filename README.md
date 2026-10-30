@@ -1,7 +1,7 @@
 # 📃 Useful Research Papers
 | # | Topic | Best For | Beginner Friendly? | My Understanding | Link to the paper |
 |---|-------|----------|---------------------|------|------|
-| 1 | **Attention Is All You Need** | LLMs | Yes | --| [Open](https://arxiv.org/pdf/1706.03762) |My Explanation 
+| 1 | **Attention Is All You Need** | LLMs | Yes | --| [Open](https://arxiv.org/pdf/1706.03762)
 | 2 | **Visual Instruction Turning** | Computer Vision and Pattern Recognition | No |--| [Open](https://arxiv.org/pdf/2304.08485)
 | 3 | **Switch Transformers: Scaling to Trillion-Parameter Models with Simple and Efficient Sparsity** | scalable and effective natural language learners | No |--| [Open](https://arxiv.org/pdf/2101.03961)
 | 4 | **Language Models are Few-Shot Learners** | LLMs | Yes |-- | [Open](https://arxiv.org/pdf/2005.14165)
@@ -10,9 +10,8 @@
 | 7 | **Gated Attention for Large Language Models: Non-linearity, Sparsity, and Attention-Sink-Free** | LLMs | Yes |--| [Open](https://arxiv.org/pdf/2505.06708)
 | 8 | **Chain-of-Thought Prompting Elicits Reasoning in Large Language Models** | LLMs | Yes |--| [Open](https://arxiv.org/pdf/2201.11903)
 | 9 | **The Flexibility Trap** |  | No |--| [Open](https://arxiv.org/pdf/2601.15165)
-| 10 | **AI co-mathematician: Accelerating mathematicians with agentic AI** |  | -- | [Open](https://arxiv.org/pdf/2605.06651)
-| 11 | **SigLIP 2: Multilingual Vision-Language Encoders with Improved Semantic Understanding, Localization, and Dense Features** |  | [SpeakerDeck](https://speakerdeck.com/auranightsky) | [Open](https://arxiv.org/pdf/2502.14786)
-
+| 10 | **AI co-mathematician: Accelerating mathematicians with agentic AI** |  | No |--| [Open](https://arxiv.org/pdf/2605.06651)
+| 11 | **SigLIP 2: Multilingual Vision-Language Encoders with Improved Semantic Understanding, Localization, and Dense Features** |  | No |[SpeakerDeck](https://speakerdeck.com/auranightsky) , [YouTube](https://www.youtube.com/@auranightsky)| [Open](https://arxiv.org/pdf/2502.14786)
 
 
 
