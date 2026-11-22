@@ -6,7 +6,7 @@
 | 3 | **Switch Transformers: Scaling to Trillion-Parameter Models with Simple and Efficient Sparsity** | scalable and effective natural language learners | No |--| [Open](https://arxiv.org/pdf/2101.03961)
 | 4 | **Language Models are Few-Shot Learners** | LLMs | Yes |-- | [Open](https://arxiv.org/pdf/2005.14165)
 | 5 | **REACT: SYNERGIZING REASONING AND ACTING IN LANGUAGE MODELS** | LLMs | No |-- | [Open](https://arxiv.org/pdf/2210.03629)
-| 6 | **The Task Shield: Enforcing Task Alignment to Defend Against Indirect Prompt Injection in LLM Agents** | LLMs | No |-- | [Open](https://aclanthology.org/2025.acl-long.1435.pdf)
+| 6 | **The Task Shield: Enforcing Task Alignment to Defend Against Indirect Prompt Injection in LLM Agents** | LLMs | No | [SpeakerDeck](https://speakerdeck.com/auranightsky/thetaskshield) | [Open](https://aclanthology.org/2025.acl-long.1435.pdf)
 | 7 | **Gated Attention for Large Language Models: Non-linearity, Sparsity, and Attention-Sink-Free** | LLMs | Yes |--| [Open](https://arxiv.org/pdf/2505.06708)
 | 8 | **Chain-of-Thought Prompting Elicits Reasoning in Large Language Models** | LLMs | Yes |--| [Open](https://arxiv.org/pdf/2201.11903)
 | 9 | **The Flexibility Trap** |  | No |--| [Open](https://arxiv.org/pdf/2601.15165)
